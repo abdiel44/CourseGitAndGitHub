@@ -1,5 +1,7 @@
 Esta es la historia de Steven Matias 
 
-Steven Matias tiene 18 anos 
+Steven Matias tiene 18 anos
 
-y nacio en Puerto Rico
+y nacio en Puerto Rico.
+
+Comenzo a experimentar con git el 6/febrero/ 2020
